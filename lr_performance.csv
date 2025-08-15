@@ -1,0 +1,12 @@
+Metric,Value
+Accuracy,0.982766411
+Precision (Benign),0.985241776
+Recall (Benign),0.978586386
+F1-Score (Benign),0.981902804
+Precision (Attack),0.980531046
+Recall (Attack),0.986590315
+F1-Score (Attack),0.983551348
+True Positives,47896
+False Negatives,651
+True Negatives,43460
+False Positives,951
