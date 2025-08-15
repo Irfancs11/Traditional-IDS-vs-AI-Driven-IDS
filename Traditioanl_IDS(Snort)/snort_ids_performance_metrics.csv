@@ -1,0 +1,12 @@
+Metric,Snort IDS
+Accuracy,0.9680324756786097
+Precision (Benign),0.9999114749940784
+Recall (Benign),0.9497603577929736
+F1-Score (Benign),0.9741909015468675
+Precision (Attack),0.9195354186837106
+Recall (Attack),0.9998535650962512
+F1-Score (Attack),0.9580140079709678
+True Negatives (TN),417924.0
+False Positives (FP),22107.0
+False Negatives (FN),37.0
+True Positives (TP),252635.0
