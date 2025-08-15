@@ -1,0 +1,28 @@
+Tool / Library:
+Snort
+Community Rules (Downloaded)
+Wireshark
+Tcpreplay
+TShark
+Tcpdump
+
+Python Libraries:
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+scikit-learn
+tabulate
+warnings
+gc
+RandomForestClassifier (from sklearn)
+LogisticRegression (from sklearn)
+train_test_split (from sklearn)
+StandardScaler (from sklearn)
+confusion_matrix, classification_report, roc_curve, auc (from sklearn)
+tensorflow / keras
+tensorflow.keras.models.Sequential
+tensorflow.keras.layers.Dense
+tensorflow.keras.layers.Dropout
+tensorflow.keras.optimizers.Adam
+binary_crossentropy
